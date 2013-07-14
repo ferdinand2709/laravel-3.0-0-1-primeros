@@ -1,0 +1,345 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/xampp/htdocs/laravel-3.0-0-1-primeros/application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3408,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1156,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/laravel-3.0-0-1-primeros/public/index.php",
+		"/D/xampp archives/da/index.html",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp archives/rosa/index.html",
+		"/D/xampp/htdocs/protego2/index.htm",
+		"/D/xampp/htdocs/protego2/protego.sublime-project",
+		"/D/xampp/htdocs/laravel-master/application/config/database.php",
+		"/D/xampp/htdocs/laravel-master/application/migrations/2013_07_06_051522_create_users_table.php",
+		"/D/xampp/htdocs/laravel-master/application/models/user.php",
+		"/D/xampp/htdocs/laravel-master/application/controllers/users.php",
+		"/D/elMaestroSoda/36/Ftp hogasnet@hogas.net.xml",
+		"/D/xampp/htdocs/laravel-master/application/views/users/update.blade.php",
+		"/D/xampp/htdocs/laravel-master/application/bundles.php",
+		"/D/xampp/htdocs/laravel-master/application/config/auth.php",
+		"/D/xampp/htdocs/laravel-master/application/controllers/auth.php",
+		"/D/xampp/htdocs/laravel-master/application/views/users/create.blade.php",
+		"/D/xampp/htdocs/laravel-master/application/views/users/index.blade.php",
+		"/D/xampp/htdocs/laravel-master/application/controllers/base.php",
+		"/D/xampp/htdocs/laravel-master/application/routes.php",
+		"/D/xampp/htdocs/laravel-master/application/views/admin/dashboard.blade.php",
+		"/D/xampp/htdocs/laravel-master/application/views/auth/login.blade.php",
+		"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/D/xampp/htdocs/eye.hogas.net/archives/descripcionbd.txt",
+		"/D/xampp/htdocs/laravel-master/public/index.php",
+		"/D/xampp/htdocs/laravel-master/bootstrap/autoload.php",
+		"/D/xampp/htdocs/laravel-master/bootstrap/paths.php",
+		"/D/xampp/htdocs/laravel-master/bootstrap/start.php",
+		"/D/xampp/htdocs/hogas.net/operador/mostrar_reporte.php",
+		"/D/xampp/htdocs/hogas.net/includes/centro.php",
+		"/D/xampp/htdocs/hogas.net/index.php",
+		"/D/xampp/htdocs/hogas.net/includes/m_izquierdo.php",
+		"/D/xampp/htdocs/hogas.net/includes/conectar.php",
+		"/D/xampp/htdocs/hogas.net/includes/conexion.php",
+		"/D/xampp/htdocs/hogas.net/includes/default.php",
+		"/D/xampp/htdocs/hogas.net/includes/configuracion.php",
+		"/D/xampp/htdocs/hogas.net/includes/config.php",
+		"/D/xampp/htdocs/hogas.net/includes/idioma.php",
+		"/D/xampp/htdocs/hogas.net/includes/detector.php",
+		"/D/xampp/htdocs/hogas.net/includes/cabeza.php",
+		"/D/xampp/php/pear/Config.php",
+		"/D/xampp/htdocs/hogas.net/includes/pie.php",
+		"/D/xampp/htdocs/hogas.net/includes/m_derecho.php",
+		"/D/xampp/htdocs/hogas.net/includes/registro_operador.php",
+		"/D/xampp/htdocs/hogas.net/includes/login.php",
+		"/D/xampp/htdocs/hogas.net/includes/get_captcha.php",
+		"/D/xampp/htdocs/hogas.net/includes/nueva_clave.php",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-tooltip.js",
+		"/D/xampp/php/php.ini",
+		"/D/elMaestroSoda/36/mail/hogas/.incoming.2013-07-03/new/1372865648.H307882P11383.jaguar.smart-hosts.net,S=31883",
+		"/D/elMaestroSoda/36/mail/hogas/.incoming.2013-07-03/new/1372894351.H920112P10570.jaguar.smart-hosts.net,S=483701",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/texto.txt",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-tab.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-scrollspy.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-carousel.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-popover.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-modal.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-dropdown.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/js/bootstrap-collapse.js",
+		"//protegoperu.com@2077/DavWWWRoot/public_html/index.htm",
+		"/D/elMaestroSoda/36/mail/hogas/.incoming.2013-07-03/new/1372861037.H962576P29710.jaguar.smart-hosts.net,S=33479",
+		"/D/xampp/htdocs/html5/index.html",
+		"/D/xampp/htdocs/html5/Smooth Bézier Spline Through Prescribed Points-Dev_files/fastbutton.htm",
+		"/D/xampp/htdocs/html5/document.drw",
+		"/D/elMaestroSoda/33 laravel/xampp/apache/conf/httpd.conf",
+		"/D/xampp/phpMyAdmin/config.inc.php",
+		"/D/curiiosidad/mas grande/Smooth Bézier Spline Through Prescribed Points-Dev.htm",
+		"/D/xampp/htdocs/html5/document.html",
+		"/D/xampp/htdocs/html5/Smooth Bézier Spline Through Prescribed Points-Dev_files/fastbutton_002.htm",
+		"/D/curiiosidad/mas grande/Smooth Bézier Spline Through Prescribed Points.htm",
+		"/D/xampp/htdocs/protego2/css/bootstrap.css",
+		"/D/curiiosidad/mas grande/Smooth Bézier Spline Through Prescribed Points-Dev_files/circles.svg",
+		"/D/xampp/htdocs/protego/index.html",
+		"/D/elMaestroSoda/36/bootstrap/js/bootstrap.js",
+		"/D/wamp/www/sublime/index.html",
+		"/D/curiiosidad/Carousel Template · Bootstrap.htm",
+		"/D/curiiosidad/Bootstrap, from Twitter.htm",
+		"/D/elMaestroSoda/36/ROOT/RunMe.sh",
+		"/D/elMaestroSoda/36/ROOT/RunMe.bat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"documentRoot",
+			"sesion",
+			"iniciar",
+			"include",
+			"includes",
+			"panel_imagen",
+			"primera",
+			"<?",
+			"include",
+			"png",
+			"panel_imagen",
+			"panel",
+			"<?",
+			"config",
+			"<?",
+			"Config",
+			"config",
+			"<?",
+			"spain",
+			"<? ",
+			"size",
+			"upload",
+			"max",
+			"iframe",
+			"icon",
+			"navbar-wrapper",
+			"project name",
+			"h1",
+			"browser",
+			"slide",
+			"Carousel%20Template%20%C2%B7%20Bootstrap_files",
+			"carousel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php",
+			"",
+			"<?php spain",
+			"<?php",
+			"js"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/xampp/htdocs/laravel-3.0-0-1-primeros/application/config/database.php",
+					"settings":
+					{
+						"buffer_size": 3408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2432,
+								2432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1156,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
